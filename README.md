@@ -3,95 +3,76 @@
 
 
 # [Project Name] 🎯
-
+Fauna-Drama
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Voices of Nature
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sijil Siju] - [Saintgits college of applied sciences]
+- Member 2: [K.E Rahul Easwar] - [Saintgits college of applied sciences]
+-
 
 ### Project Description
-[2-3 lines about what your project does]
+[This website takes animal voice  as input and generates jokes and also the musical tine of the voice.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+we can't understand animal language
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+cracking jokes and interpreting the musical scale of the voice
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+python
+vscode
+gemini
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-laptop
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+python
+vs code
+gemini
+
 
 # Run
-[commands]
+http://localhost:8502/
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1dCiuJaK8TDDBkBVYDgJNhijR9MEUAMHx
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+https://drive.google.com/drive/folders/1dCiuJaK8TDDBkBVYDgJNhijR9MEUAMHx
 *Add caption explaining your workflow*
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+https://drive.google.com/drive/folders/1dCiuJaK8TDDBkBVYDgJNhijR9MEUAMHx
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/drive/folders/1dCiuJaK8TDDBkBVYDgJNhijR9MEUAMHx
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/drive/folders/1dCiuJaK8TDDBkBVYDgJNhijR9MEUAMHx
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/drive/folders/1dCiuJaK8TDDBkBVYDgJNhijR9MEUAMHx
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Sijil]: [Backend]
+- [Rahul]: [Front end ]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
