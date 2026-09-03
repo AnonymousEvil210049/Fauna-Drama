@@ -1,0 +1,7 @@
+streamlit
+numpy
+soundfile
+plotly
+scipy
+scikit-learn
+protobuf
